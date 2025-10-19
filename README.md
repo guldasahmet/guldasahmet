@@ -8,7 +8,7 @@
 ---
 
 <p align="left">
-  3rd-year Computer Engineering student at Bursa Technical University. Currently focusing on <strong>Python</strong>, <strong>C</strong>, and AI. Always learning and building.
+  3rd-year Computer Engineering student at Bursa Technical University. Currently focusing on <strong>Python</strong>, <strong>C</strong>, and <strong>AI & Robotics</strong>. Always learning and building.
 </p>
 
 <br>
@@ -56,8 +56,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmet-g%C3%BClda%C5%9F-13b1b3247/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:ahmetguldas11@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-posta" height="30" width="40" />
   </a>
 </p>
