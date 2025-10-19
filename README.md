@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmet Güldaş 👋</h1>
-<h3 align="center">Computer Engineering Student | AI & Robotics Enthusiast</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guldasahmet&label=Profile%20Views&color=0e75b6&style=flat" alt="guldasahmet" />
@@ -54,10 +54,10 @@
 
 <h3 align="left">📬 Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/[...LinkedIn Kullanıcı Adınız...]" target="blank">
+  <a href="https://www.linkedin.com/in/ahmet-g%C3%BClda%C5%9F-13b1b3247/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:[...E-posta Adresiniz...]" target="blank">
+  <a href="mailto:ahmetguldas11@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="E-posta" height="30" width="40" />
   </a>
 </p>
