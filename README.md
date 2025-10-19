@@ -8,7 +8,7 @@
 ---
 
 <p align="left">
-  3rd-year Computer Engineering student at Bursa Technical University. Currently focusing on <strong>Python</strong>, <strong>C/C++</strong>, AI, and Robotics. Always learning and building.
+  3rd-year Computer Engineering student at Bursa Technical University. Currently focusing on <strong>Python</strong>, <strong>C</strong>, and AI. Always learning and building.
 </p>
 
 <br>
