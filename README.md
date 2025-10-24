@@ -43,13 +43,6 @@
 
 <br>
 
-<h3 align="left">📊 My GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guldasahmet&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="Ahmet Güldaş's GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guldasahmet&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
 <br>
 
 <h3 align="left">📬 Connect with Me</h3>
